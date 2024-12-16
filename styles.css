@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://png.pngtree.com/background/20210717/original/pngtree-minimalist-abstract-background-portfolio-picture-image_1447430.jpg");
+    background-size: cover;
+}
+
+#Name{
+    margin: auto;
+    font-size: large;
+    
+}
+
+#edu{
+    color: brown;
+    background-color: antiquewhite;
+    
+}
+
+table {
+    width: 100%;
+    border: 2px solid black; 
+    border-collapse: collapse;
+}
+
+th, tr {
+    border: 1px solid black; 
+    padding: 8px; 
+    text-align: left; 
+}
+
+th{
+    background-color:; 
+}
